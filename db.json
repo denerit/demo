@@ -1,14 +1,54 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"adresses": [
+
+		{
+			"id": 1,
+			"firstname": "Pippo",
+			"lastname": "Pluto",
+			"address": "Via Roma 10",
+			"city": "Torino",
+			"state": "Italy",
+			"postalcode": "10014"
+		},
+
+		{
+			"id": 2,
+			"firstname": "Mario",
+			"lastname": "Rossi",
+			"address": "Via Durandi 8",
+			"city": "Torino",
+			"state": "Italy",
+			"postalcode": "10014"
+		},
+
+		{
+			"id": 3,
+			"firstname": "Marco",
+			"lastname": "Verdi",
+			"address": "Via Roma 21",
+			"city": "Torino",
+			"state": "Italy",
+			"postalcode": "10014"
+		},
+
+		{
+			"id": 4,
+			"firstname": "Luca",
+			"lastname": "Toni",
+			"address": "Via Trento 35",
+			"city": "Torino",
+			"state": "Italy",
+			"postalcode": "10014"
+		},
+
+		{
+			"id": 5,
+			"firstname": "Paolo",
+			"lastname": "Grasso",
+			"address": "Via Roma 10",
+			"city": "Torino",
+			"state": "Italy",
+			"postalcode": "10014"
+		}
+	]
 }
